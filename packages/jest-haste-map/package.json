@@ -18,7 +18,7 @@
     "jest-serializer": "^24.4.0",
     "jest-util": "^24.7.1",
     "jest-worker": "^24.6.0",
-    "micromatch": "^3.1.10",
+    "micromatch": "^4.0.1",
     "sane": "^4.0.3",
     "walker": "^1.0.7"
   },
@@ -28,7 +28,7 @@
     "@types/fsevents": "^1.1.0",
     "@types/graceful-fs": "^4.1.2",
     "@types/invariant": "^2.2.29",
-    "@types/micromatch": "^3.1.0",
+    "@types/micromatch": "^4.0.1",
     "@types/sane": "^2.0.0"
   },
   "optionalDependencies": {
